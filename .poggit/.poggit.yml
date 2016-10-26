@@ -1,0 +1,7 @@
+---
+branches: master
+projects:
+  EssentialsPE:
+    path: ""
+    model: default
+...
